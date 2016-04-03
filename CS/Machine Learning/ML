@@ -1,0 +1,16 @@
+Week 1 Listen 2:
+Supervised Learing/ Unsupervised Learning
+
+Cocktail partty problem algorithm
+Divide two source voice: [W,s,v]=svd((repmat(sum(x,*x,1),size(x,1),1).*x)*x');
+
+Classification/ Regression
+	Classification: Discrete-valued output
+	Regression: Predict real-valued oupput
+ 
+Cost function/ square error cost function
+ J(θ0,θ1)=1/2m∑i=1m(hθ(x(i))−y(i))2
+
+
+Week 2 Listen 3:
+
